@@ -6,23 +6,23 @@ body{
     padding: 0%;
 }
 .caja1{
-    background-color: blue;
+;
     height: 100vh;
-    border-style: solid;
-    border-color: black;
+
+
 }
 .caja2{
     position: relative;
-    background-color: white;
+
     height: 100vh;
-    border-style: solid;
-    border-color: black;
+
+
 }
 h1{
     text-align: center;
 }
 #uno{
-    width: 100%;
+    width: 70%;
     position: absolute;
     left: 0;
     top: 0;
@@ -30,7 +30,7 @@ h1{
     animation-duration: 1s;
 }
 #dos{
-    width: 100%;
+    width: 70%;
     position: absolute;
     left: 0;
     top: 0;
@@ -38,7 +38,7 @@ h1{
     animation-duration: 2s;
 }
 #tres{
-    width: 100%;
+    width: 70%;
     position: absolute;
     left: 0;
     top: 0;
@@ -46,7 +46,7 @@ h1{
     animation-duration: 3s;
 }
 #cuatro{
-    width: 100%;
+    width: 70%;
     position: absolute;
     left: 0;
     top: 0;
